@@ -1,4 +1,4 @@
-// First code snippp version...
+// First code snippp version... coments on its way...
 	
 	(function($) {
 		var	buffer = [];
@@ -22,7 +22,7 @@
 		}
 
 		$.preLoadNextImage = function() {
-			if(4<countLoading){
+			if(3<countLoading){
 				return
 			}
 			countLoading++
